@@ -1,6 +1,6 @@
 {
-  "name": "NoiseBox",
-  "short_name": "NoiseBox",
+  "name": "MonkiNoise",
+  "short_name": "MonkiNoise",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",
